@@ -28,12 +28,12 @@ const _nav = [
   },
   {
     component: CNavTitle,
-    name: 'Test',
+    name: 'Theme',
   },
   {
     component: CNavItem,
     name: 'Colors',
-    to: '/test/category',
+    to: '/theme/colors',
     icon: <CIcon icon={cilDrop} customClassName="nav-icon" />,
   },
   {
